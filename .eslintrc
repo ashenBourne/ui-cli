@@ -1,0 +1,19 @@
+{
+  "globals": {
+    "ga": true,
+    "chrome": true
+  },
+  "plugins": ["html", "json"],
+  "extends": "elemefe",
+  "rules": {
+    "no-restricted-globals": ["error", "event", "fdescribe"],
+    "quotes": [2, "single"], //单引号
+    "semi": [2, "never"], // 不使用分号
+    "space-before-function-paren": 0
+  },
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "parser": "babel-eslint",
+    "sourceType": "module"
+  }
+}

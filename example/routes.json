@@ -1,0 +1,22 @@
+{
+    "zh-CN": [
+        {
+            "title": "更新日志",
+            "path": "/changelog"
+        },
+        {
+            "title": "组件",
+            "children": [
+                {
+                    "title": "基础组件",
+                    "children": [
+                        {
+                            "title": "按钮",
+                            "path": "/button"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

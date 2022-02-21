@@ -1,0 +1,32 @@
+[
+    {
+        "lang": "zh-CN",
+        "page": {
+            "index": {
+                "1": "网站快速成型工具",
+                "2": "Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
+                "3": "指南",
+                "4": "了解设计指南，帮助产品设计人员搭建逻辑清晰、结构合理且高效易用的产品。",
+                "5": "查看详情"
+            },
+            "test": {
+                "1": "测试页面"
+            }
+        }
+    },
+    {
+        "lang": "en-US",
+        "page": {
+            "index": {
+                "1": "A Desktop UI Library",
+                "2": "Element, a Vue 2.0 based component library for developers, designers and product managers",
+                "3": "Guide",
+                "4": "Understand the design guidelines, helping designers build product that's logically sound, reasonably structured and easy to use.",
+                "5": "View Detail"
+            },
+            "test": {
+                "1": "test page"
+            }
+        }
+    }
+]

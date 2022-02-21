@@ -1,0 +1,11 @@
+@import "common/var";
+@import "mixins/mixins";
+
+@include b(button) {
+  background: $--button-default-background-color;
+  color: $--button-default-font-color;
+  border-color: $--button-default-border-color;
+  padding: 10px 16px;
+  border: 1px solid #ccc;
+  border-radius: 30px;
+}
